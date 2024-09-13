@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.10.0",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
