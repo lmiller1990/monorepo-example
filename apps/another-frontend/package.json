@@ -1,6 +1,6 @@
 {
-  "name": "another-frontend",
   "private": true,
+  "name": "another-frontend",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
